@@ -1,0 +1,7 @@
+#Thu Dec 22 16:03:38 JST 2016
+base.0=/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_18be19b78181408f170bbf7fa731f4928dac4bcb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_17a141261fad2abbc4ecada7f1640bcf4a4e4f2b/classes.dex
+base.1=/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_17a141261fad2abbc4ecada7f1640bcf4a4e4f2b
+file.0=/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_18be19b78181408f170bbf7fa731f4928dac4bcb/classes.dex

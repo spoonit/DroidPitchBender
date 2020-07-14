@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_94c6cb9d31b35cdb10fc900a9c59ed64e95d624b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3886c6d7ddba66f913291f32b99e43334ccb5c1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f9376fed9c6613f0495a5e36e22e81f309e18289/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c1038021070c23842a6ff770f2c2b2d0123ec792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_a4e5a0f6cd43ce405c5328e76265ecc21d7542c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_05ec657bb8daebd49985cebc31c3d6819dbeeff6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="54325ac2d90366e55bb8e902533f645b20266c3b">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_17a141261fad2abbc4ecada7f1640bcf4a4e4f2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_b2416fe5002d0655e1ccc6088f0bc0adeadb137a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/libs/TarsosDSP-Android-latest.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="82afc90486cffd3cf6ce82e1680567d8c5f3b268">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/2/TarsosDSP-Android-latest_83e8ba9c79dffb5aafb50c7e6238ef7653248f61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_463a88ea7514e8180144992dfdeac33447640194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_faf34f2872af8f2defff82f4dd46af84aa04af79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_0ee1486077572e41653f3634ca3bd693d8010ae9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_0fdfd6e5157cf7b149346ab7a50ca12841756ad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_fcab0376fad6f6f0451ded3fdd291ab3d36e35c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_70763d6d7137a14185580c736ade0d8ba3f1adfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4f86bdacbe84b17aff336c5d0baa6a431d369fbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f0ffd2bc58bc3f533cf82277b4cdded436803615">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_18be19b78181408f170bbf7fa731f4928dac4bcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jesus.rios/Documents/gitlab/PitchBender/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_c6d3a89d5d0fc6558ea2d154ecf1918b99db945b/classes.dex" />
+    </item>
+
+</items>
